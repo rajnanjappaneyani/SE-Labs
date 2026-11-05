@@ -8,7 +8,9 @@ A common repository containing all lab assignments for the Software Engineering 
 SE-Labs/
 ├── lab_1/   → Lab 1 - Software Engineering Lab 1
 ├── lab_3/   → Lab 3 - Software Engineering Lab 3
-└── lab_4/   → Lab 4 - Fruit Ninja Game (Python)
+├── lab_4/   → Lab 4 - Fruit Ninja Game (Python)
+├── lab_6/   → Lab 6 - Laundry Service (Code and Branch Coverage)
+└── lab_7/   → Lab 7 - Laundry Service (Fuzz Testing with Hypothesis)
 ```
 
 ## 🧪 Labs Overview
@@ -18,7 +20,7 @@ SE-Labs/
 | [Lab 1](./lab_1/) | Software Engineering Lab 1 | — |
 | [Lab 3](./lab_3/) | Software Engineering Lab 3 | — |
 | [Lab 4](./lab_4/) | Fruit Ninja Game — A Pygame-based fruit slicing game | Python |
-| [Lab 6](./lab_6/) | Laundry service code and branch coverage | Python |
+| [Lab 6](./lab_6/) | Laundry service code and branch coverage (100% statement & branch coverage) | Python |
 | [Lab 7](./lab_7/) | Laundry service fuzz testing with Hypothesis | Python |
 
 ## 🚀 Getting Started
