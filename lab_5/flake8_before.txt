@@ -1,0 +1,6 @@
+original_library_catalog_system.py:6:1: F401 'csv' imported but unused
+original_library_catalog_system.py:26:5: E722 do not use bare 'except'
+original_library_catalog_system.py:31:5: F841 local variable 'late_fee' is assigned to but never used
+original_library_catalog_system.py:32:29: E711 comparison to None should be 'if cond is None:'
+original_library_catalog_system.py:41:5: F841 local variable 'days' is assigned to but never used
+original_library_catalog_system.py:73:7: W292 no newline at end of file

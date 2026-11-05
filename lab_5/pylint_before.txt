@@ -1,0 +1,28 @@
+************* Module original_library_catalog_system
+original_library_catalog_system.py:73:0: C0304: Final newline missing (missing-final-newline)
+original_library_catalog_system.py:15:0: C0116: Missing function or method docstring (missing-function-docstring)
+original_library_catalog_system.py:15:0: C0103: Function name "issueBook" doesn't conform to snake_case naming style (invalid-name)
+original_library_catalog_system.py:15:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+original_library_catalog_system.py:19:25: C0209: Formatting a regular string which could be a f-string (consider-using-f-string)
+original_library_catalog_system.py:23:0: C0116: Missing function or method docstring (missing-function-docstring)
+original_library_catalog_system.py:26:4: W0702: No exception type(s) specified (bare-except)
+original_library_catalog_system.py:30:0: C0116: Missing function or method docstring (missing-function-docstring)
+original_library_catalog_system.py:32:7: C0121: Comparison 'catalog.get(book_id) == None' should be 'catalog.get(book_id) is None' (singleton-comparison)
+original_library_catalog_system.py:34:4: R1703: The if statement can be replaced with 'return bool(test)' (simplifiable-if-statement)
+original_library_catalog_system.py:34:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+original_library_catalog_system.py:31:4: W0612: Unused variable 'late_fee' (unused-variable)
+original_library_catalog_system.py:40:0: C0116: Missing function or method docstring (missing-function-docstring)
+original_library_catalog_system.py:42:11: W0123: Use of eval (eval-used)
+original_library_catalog_system.py:41:4: W0612: Unused variable 'days' (unused-variable)
+original_library_catalog_system.py:46:0: C0116: Missing function or method docstring (missing-function-docstring)
+original_library_catalog_system.py:50:0: C0116: Missing function or method docstring (missing-function-docstring)
+original_library_catalog_system.py:54:0: C0116: Missing function or method docstring (missing-function-docstring)
+original_library_catalog_system.py:55:4: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+original_library_catalog_system.py:55:8: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+original_library_catalog_system.py:55:8: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+original_library_catalog_system.py:61:0: C0116: Missing function or method docstring (missing-function-docstring)
+original_library_catalog_system.py:6:0: W0611: Unused import csv (unused-import)
+
+-----------------------------------
+Your code has been rated at 5.11/10
+
