@@ -18,6 +18,8 @@ SE-Labs/
 | [Lab 1](./lab_1/) | Software Engineering Lab 1 | — |
 | [Lab 3](./lab_3/) | Software Engineering Lab 3 | — |
 | [Lab 4](./lab_4/) | Fruit Ninja Game — A Pygame-based fruit slicing game | Python |
+| [Lab 6](./lab_6/) | Laundry service code and branch coverage | Python |
+| [Lab 7](./lab_7/) | Laundry service fuzz testing with Hypothesis | Python |
 
 ## 🚀 Getting Started
 
