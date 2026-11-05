@@ -14,7 +14,7 @@ from laundry_service import (
         ("regular", 7, "standard", False, 60),
         ("regular", 7, "express", False, 100),
         ("delicate", 6, "standard", True, 30),
-        ("bedding", 9, "standard", True, 50),
+        ("bedding", 9, "standard", True, 30),
         ("regular", 16, "standard", False, 495),
         ("regular", 16, "express", False, 825),
     ],
